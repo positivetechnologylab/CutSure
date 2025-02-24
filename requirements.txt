@@ -1,0 +1,4 @@
+qiskit==0.30.1
+numpy==1.21.2
+matplotlib==3.4.3
+qiskit_ibm_runtime
