@@ -16,7 +16,7 @@ Upon completion, 'main.py' will produce a dictionary that contains all of the re
 
 ## Repository Structure
 - [**`main.py`**](main.py): The script containing the core code for producing the results of the different ejection schemes, such as entropic or quadratic.
-- [**`quantum_module.py`**](quantum_module): The script that contains a lot of the ancillary code for executing CutSure. This includes the optional noise model and the Qiskit code for actually executing circuits.
+- [**`quantum_module.py`**](quantum_module): The script that contains a lot of the ancillary code for executing CutSure. This includes the optional noise model and the Qiskit code for executing circuits.
 - [**`README.md`**](README.md): Repository readme with setup and execution instructions.
 - [**`requirements.txt`**](requirements.txt): Requirements to be installed before running the Python scripts.
 
