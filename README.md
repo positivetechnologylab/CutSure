@@ -1,6 +1,6 @@
 # CutSure: Increasing the Efficiency of Neutral Atoms by Reducing Qubit Waste from Measurement-related Ejections
 
-***This work won the Graduate category in the [2024 ACM SC Student Research Competition (SRC)](https://src.acm.org/winners/2025), and will be proceeding to the SRC Grand Finals.*** Access the abstract [**`here`**](CutSure_Extended_Abstract.pdf) and the poster [**`here`**](CutSure Poster-2.pdf).
+***This work won the Graduate category in the [2024 ACM SC Student Research Competition (SRC)](https://src.acm.org/winners/2025), and will be proceeding to the SRC Grand Finals.*** Access the abstract [**`here`**](CutSure_Extended_Abstract.pdf) and the poster [**`here`**](CutSure\ Poster-2.pdf).
 
 ## Important Note: This project is no longer functional due to IBM taking their backend simulation offline. This code is provided for reference purposes.
 
