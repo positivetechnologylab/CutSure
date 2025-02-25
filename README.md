@@ -2,8 +2,6 @@
 
 ***This work won the Graduate category in the [2024 ACM SC Student Research Competition (SRC)](https://src.acm.org/winners/2025), and will be proceeding to the SRC Grand Finals.*** Access the abstract [**`here`**](CutSure_Extended_Abstract.pdf) and the poster [**`here`**](CutSurePoster-2.pdf).
 
-## Important Note: This project is no longer functional due to IBM taking their backend simulation offline. This code is provided for reference purposes.
-
 ## Usage
 1. In your terminal, run `git clone https://github.com/positivetechnologylab/CutSure.git` to clone the repository.
 2. Run `cd CutSure`.
