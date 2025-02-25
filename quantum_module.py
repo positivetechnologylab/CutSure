@@ -7,7 +7,7 @@ from qiskit_ibm_runtime import QiskitRuntimeService
 import random
 import warnings
 
-# TOKEN = "bcc6639d56e2cae11f01bda3b35b3c287432a24710d11e805b45a5f9517e265a688779e956c386acd31720b0bc84c307db9a416eab049a20438c245c6db0ebbd"
+# TOKEN = ""
 # INSTANCE = None
 
 """
