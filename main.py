@@ -12,7 +12,6 @@ import warnings
 from qiskit_ibm_runtime import QiskitRuntimeService
 from datetime import datetime
 
-# IMPORTANT NOTE: These were used to access IBM's quantum backend for its simulators before they were taken offline. This is now deprecated, and thus the code no longer functions.
 # TOKEN = ""
 # INSTANCE = None
 
